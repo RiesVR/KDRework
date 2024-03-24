@@ -18,23 +18,23 @@ const router = createBrowserRouter([
   },
   {
     path: "general-rules",
-    element: <RulesList data={GeneralRules} />,
+    element: <RulesList data={GeneralRules} prefixNumber={2} />,
   },
   {
     path: "job-rules",
-    element: <RulesList data={JobRules} />,
+    element: <RulesList data={JobRules} prefixNumber={5} />,
   },
   {
     path: "kdg-rework-rules",
-    element: <RulesList data={KdReworkRules} />,
+    element: <RulesList data={KdReworkRules} prefixNumber={1} />,
   },
   {
     path: "property-rules",
-    element: <RulesList data={PropertyRules} />,
+    element: <RulesList data={PropertyRules} prefixNumber={3} />,
   },
   {
     path: "rolepaly-rules",
-    element: <RulesList data={RoleplayRules} />,
+    element: <RulesList data={RoleplayRules} prefixNumber={4} />,
   }
 ]);
 

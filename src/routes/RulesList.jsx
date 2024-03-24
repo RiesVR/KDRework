@@ -2,9 +2,7 @@ import React from 'react';
 import logo from '../images/kd-rework-logo.png';
 import discordLogo from '../images/discord-logo.svg';
 
-const prefixNumber = 1;
-
-const RulesList = ({ data }) => {
+const RulesList = ({ data, prefixNumber }) => {
     return (
         <>
             <header className="App-header">
