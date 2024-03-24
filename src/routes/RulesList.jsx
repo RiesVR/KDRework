@@ -26,13 +26,6 @@ const RulesList = ({ data, prefixNumber }) => {
                     </li>
                 ))}
             </ul>
-
-            <footer className="App-footer">
-                <p className='c2a'>Join our Discord server</p>
-                <a href="https://discord.gg/qhv4xJB62e" >
-                    <img src={discordLogo} className="logo--discord" alt="logo Discord" />
-                </a>
-            </footer>
         </>
     );
 }
