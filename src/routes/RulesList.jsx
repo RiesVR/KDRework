@@ -1,6 +1,4 @@
-import React from 'react';
 import logo from '../images/kd-rework-logo.png';
-import discordLogo from '../images/discord-logo.svg';
 
 const RulesList = ({ data, prefixNumber }) => {
     return (

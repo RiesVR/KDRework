@@ -5,6 +5,8 @@ import {
 } from "react-router-dom";
 import Homepage from "./routes/Homepage";
 import RulesList from './routes/RulesList';
+import Welcome from './routes/Welcome';
+
 import GeneralRules from './data/rules/general-rules.json';
 import JobRules from './data/rules/job-rules.json';
 import KdReworkRules from './data/rules/kd-rework-rules.json';
@@ -35,6 +37,10 @@ const router = createBrowserRouter([
   {
     path: "rolepaly-rules",
     element: <RulesList data={RoleplayRules} prefixNumber={4} />,
+  },
+  {
+    path: "welcome",
+    element: <Welcome />,
   }
 ]);
 
