@@ -1,0 +1,95 @@
+{
+    "name": "Job Rules",
+    "rules": [
+        {
+            "title": "Hobos",
+            "description": "You may not own property, but may own a firearm to protect yourself. You may build a small shelter that is not blocking anyone or anything."
+        },
+        {
+            "title": "Banker",
+            "description": "As a Banker your job is to build defences inside the Bank. You may hire Security Guards for additional security. You may only accept legal goods and of course printers.",
+            "subrules": [
+                {
+                    "title": "6.6 Applies as well."
+                }
+            ]
+        },
+        {
+            "title": "Hotel Manager",
+            "description": "You may only own 1 Hotel as Hotel Manager. You may build defences in the lobby that do not count towards base defence. You may hire additional security.",
+            "subrules": [
+                {
+                    "title": "6.6 Applies as well."
+                }
+            ]
+        },
+        {
+            "title": "Estate Manager",
+            "description": "You may buy multiple properties and sell them for money. You may maximum charge $5.000 per normal base and $75.000 for a big one. You may only own 1 Big Base and 4 Normal bases at a time.",
+            "subrules": [
+                {
+                    "title": "6.6 Applies as well."
+                }
+            ]
+        },
+        {
+            "title": "Pianist and Radio Manager",
+            "description": "You may also use the Pub and charge a fee if there is no bartender.",
+            "subrules": [
+                {
+                    "title": "6.6 Applies as well."
+                },
+                {
+                    "title": "Radio Manager may play on public area as well, with the exception that the public road may not be blocked."
+                }
+            ]
+        },
+        {
+            "title": "Medic",
+            "description": "You may heal any player on the server for a small fee. You may build inside the Hospital. You may only block off the Health NPC with Super-Admin+ permission.",
+            "subrules": [
+                {
+                    "title": "6.6 Applies as well."
+                }
+            ]
+        },
+        {
+            "title": "Merchants",
+            "description": "As a legal merchant your role is to sell items to the public; you must not refuse to sell your goods to anyone without a viable reason. You may have legal money printers inside the bank. You also may own property to set up shop and can use legal weapons.",
+            "subrules": [
+                {
+                    "title": "6.6.1 Black Market Dealer / Drug Dealer Playing as an illegal merchant your role is to sell items to fellow criminals; this must be done in a building to prevent the Government arresting you and fellow criminals. Failure to hide your sales may result in a FailRP warning, so no /advert 'I sell Illegal guns'. Creative marketing i.e. 'I got exotic goods' is still allowed."
+                }
+            ]
+        },
+        {
+            "title": "Hitman",
+            "description": "You may accept a bounty each 10 minutes. You may not accept a bounty for the same target for 25 minutes. You may only kill your Target."
+        },
+        {
+            "title": "Terrorist",
+            "description": "Cops may KOS you. You may defend your life but no KOS. You may start an assault on the PD and use a detonator once every 30 minutes. RDM still counts."
+        },
+        {
+            "title": "Freerunner",
+            "description": "You may raid bases with your special talents. Once you entered a base it counts as a raid. Raid rules still apply."
+        },
+        {
+            "title": "Law Enforcement (Police, S.AS, SWAT)",
+            "description": "In the Government your role is to protect the general public from crime and to enforce the law. You must follow your orders given by higher officials (e.g. SWAT Leader/Police Chief/Mayor). You can build inside the Police Department IF you have the permission from the Mayor. You may not unarrest any person(s) in jail without a viable reason. You are encouraged to try to arrest criminals before killing them, however this is not always viable in situations where your life/others is in danger i.e you witness a violent crime, a criminal has a gun pointed at you etc.",
+            "subrules": [
+                {
+                    "title": "6.10.1 Checkpoints: Law Enforcement is allowed to build one Checkpoint on the map. The checkpoint must be overseen by at least one moderator+ and it needs permission from an admin+. The admin that gave permission always has last word in anything regarding the checkpoint."
+                }
+            ]
+        },
+        {
+            "title": "Mayor",
+            "description": "The Mayor must have valid reasons to fire any member of his police force. Lockdowns require a valid RP Reason and may not be longer than 10 minutes at a time. With a cool down of 5 minutes between lockdowns. The Mayor can give permission to the Law Enforcement to build in the Police Department. Lobby must be publicly accessible and beyond can be used for defenses. The Mayor can also ask Law Enforcement to remove a building/defenses. Mayor can only build in his own Office."
+        },
+        {
+            "title": "Secret Service",
+            "description": "You need to follow and protect the Mayor. You are not part of the official Law Enforcement."
+        }
+    ]
+}

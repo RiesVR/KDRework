@@ -1,0 +1,29 @@
+{
+    "name": "KDRework’s Rules and Guidelines",
+    "rules": [
+        {
+            "title": "Conduct",
+            "description": "KDRework strives to be a nice place after a long day so we do encourage everyone to be friendly. We do not tolerate discrimination, bullying or harassment in any way. This includes racism, sexism and hate speech. Furthermore our server language is English, so please use it in Public areas In-Game or in Discord. You may of course talk in your home language inside your own Gangs / Bases. Impersonating others especially inside the community, Lying to Staff Members and falsifying evidence are also punishable."
+        },
+        {
+            "title": "Exploiting & Third-party software",
+            "description": "The use of any exploits, third-party software, or console commands in order to gain some sort of advantage is not allowed. This includes movement macros. Trying to DDoS or harm the server will result in a permanent ban."
+        },
+        {
+            "title": "Real world trading",
+            "description": "We do not want any real world trading in our community. This includes selling your account with VIP Status or selling in-game money for real life money."
+        },
+        {
+            "title": "Advertisement",
+            "description": "The advertisement of other communities (Game Servers, Discords or Forums) that are not affiliated with KDRework in any way will result in a permanent ban."
+        },
+        {
+            "title": "Alternative Account Usage",
+            "description": "If you use Alternative Accounts to circumvent a ban (ban evading), it will lead to a permanent ban."
+        },
+        {
+            "title": "Compliance",
+            "description": "The Staff may interpret the rules to ensure a fair outcome for all involved. If you have a complaint or feel you were treated unreasonably by the member of staff, please make a Staff Report on the Discord. Please do not backseat or try to administrate and attempt to take matters into your own hands. Furthermore, the member of staff has the final say and any decision is absolute - unless appealed on the Discord."
+        }
+    ]
+}

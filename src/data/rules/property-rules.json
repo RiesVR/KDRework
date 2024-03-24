@@ -1,0 +1,53 @@
+{
+    "name": "Property/Building Rules",
+    "rules": [
+        {
+            "title": "Building & KOS Signs",
+            "description": "Building Signs exempt you from RP. This means you are not allowed to have any illegals (printers, drugs, …). KOS each base / shop may have a KOS Sign for each entry of the base. Up to 3 RP valid Reasons are allowed. Follow Rules and Guidelines section above. KOS Signs need to be visible and readable."
+        },
+        {
+            "title": "Bases",
+            "description": "Bases may not impact the experience of other users or the roleplay effect of a location. You may also not use no-collided props as part of your base defenses and no-collided props in your base cannot be an opaque material/colour. No One-Way Killing Holes / Grenade holes. No One Way props that you can shoot through but the invader cant. No Mazes. No Dead-Ends. If the server is full the Warehouse bases are only for gangs / groups of minimum 4 people."
+        },
+        {
+            "title": "Keypad Fading Doors",
+            "description": "Keypads need to be visible and in torso height. A raider only needs to crack 2 keypads for the base defences and 1 Keypad each per personal storage."
+        },
+        {
+            "title": "Fading Door Abuse (Doors & Entrances)",
+            "description": "You may only use keypads/buttons to open and close fading doors. Each Fading door needs to be open for at least 4 seconds. Personal Storage for 6 seconds. The spacing between the 2 defence doors need to be able hold 2 raiders. Fading doors need to open with a 0 second delay. You may have 2 sets of fading doors per base. 1 set = 2 props. You may not have more than one keypad or button either side of the door, and each must be clearly identifiable."
+        },
+        {
+            "title": "Accessibility",
+            "description": "You must be able to access the property on foot, without having to perform specific actions (IE: crouching/jumping), this includes bases that utilise world doors, sewer pipes, windows, ledges and using water to jump up onto a prop. Bases must not be disorientating or use invisible props, this includes blackout bases. Bases using the 'Wire' material are allowed as long as they are not disorientating. The entrance to the base must be linear, not a maze designed with dead ends and without the use of zig-zags (so that a raider must move left and right to continue), or anything else designed to unfairly extend access to the base."
+        },
+        {
+            "title": "Raiding/Defence",
+            "description": "Bases must be designed in a way where both raiders and defenders can see each other and shoot each other. One-Way props are allowed however both parties of the raid must be able to see each other without any kind of distortion when firing. Shooting windows must be at least the size of the Player Torso, i.e. both need to see head and hips. During a Raid, you're not allowed to edit your base at all. You can not have a ceiling that allows you to shoot from directly above the players head. However, you may still use an elevated shooting position provided your head and hips are visible. Shooting below is allowed but must follow the rule stated above. (No head glitching or unfair angles that conceal your head and upper torso from the raiders perspective). Defenders may shoot directly down the tunnel but must be completely visible at all times and not behind cover."
+        },
+        {
+            "title": "Pixel Perfect Bases",
+            "description": "You may not use pixel perfect bases, for example a really narrow gap a player must get through that is only a few pixels larger than the player to slow them down."
+        },
+        {
+            "title": "Blocking areas of the map",
+            "description": "You may not block off large areas of the map. You may section off smaller dead ends without interfering with players RP."
+        },
+        {
+            "title": "Bank",
+            "description": "The only job permitted to build in the bank is the Banker, however with permission from the Banker his guards may also build. Build rules still apply. You can only store Legal wares and printers inside the Bank. Government may enter the vault in the event of a security breach i.e. a Bank raid. The Banker must not facilitate bank raids in any way."
+        },
+        {
+            "title": "AFK Blacklisted jobs",
+            "description": "You may not go AFK for more than 5 minutes as a Banker or Mayor. Furthermore our Staff Members on duty are to go off duty first if they want to go afk. Failing to follow this will result in a demotion to Citizen."
+        },
+        {
+            "title": "Traps",
+            "description": "You may not have traps in your base e.g. floors/ditches that players fall through or get stuck in when raiding. Players must also be able to exit the same way they came in (e.g. no slopes with steep ledges that prevent their retreat)."
+        },
+        {
+            "title": "Stores",
+            "description": "All stores must be build inside of existing buildings. Illegal shops may be raided by Law Enforcement."
+        }
+    ]
+}

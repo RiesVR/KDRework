@@ -1,0 +1,41 @@
+{
+    "name": "Roleplay Rules",
+    "rules": [
+        {
+            "title": "Meta Gaming",
+            "description": "Adverts are only for RP related stuff. i.e. an ad for a weapons shop, law enforcement announcements. Not following this rule is called meta gaming and not allowed. Use in character chat: /advert and irl chat /ooc"
+        },
+        {
+            "title": "Evading (Leaving to Avoid)",
+            "description": "Leaving to evade RP events or punishments is unacceptable. This includes using alternative accounts to join the server to avoid punishments."
+        },
+        {
+            "title": "Raiding",
+            "description": "You must wait 20 minutes from the end of the last raid before you can raid the same person again. Players must be actively attacking the base using Lock picks, Keypad Crackers, etc. You have to leave the base as soon as you are done raiding."
+        },
+        {
+            "title": "Mugging",
+            "description": "You may mug for a maximum of $10.000. The victim has 15 seconds to comply with the request. You must be somewhat realistic when mugging, e.g. you cannot mug in public view. You may not mug the same person twice within 15 minutes. Mugging has a cooldown of 3 minutes. Following Classes may mug: Gangster / Mobboss / Freerunner"
+        },
+        {
+            "title": "Kidnapping",
+            "description": "You may kidnap another player and ask for a ransom. For non Government or Organisation targets the maximum is $25.000. For Government or Organisation target the maximum is $75.000. You may keep a hostage for a maximum of 10 minutes. You may only Kidnap 1 every 25 minutes and once every 50 min for each victim. You must be somewhat realistic when kidnapping, e.g. you cannot kidnap in front of Law Enforcement Agents"
+        },
+        {
+            "title": "Pointless Raids",
+            "description": "You may not raid a base that clearly has nothing inside - If you have reasonable suspicion that there may be something inside, this can be overlooked, but if the doors are open/windows unblocked and there's nothing, you may not raid."
+        },
+        {
+            "title": "Roleplay Countering",
+            "description": "Only counter someone else's Roleplaying when you have a valid RP reason i.e. a Cop witnesses a crime"
+        },
+        {
+            "title": "Mic Spam",
+            "description": "Mic spam is not allowed. Hobos and some jobs may be excluded for RP reasons. You are not allowed to annoy someone."
+        },
+        {
+            "title": "Defending Other Players",
+            "description": "You may only defend Organisation members / allies or base buddies. An exception is of course Law Enforcement."
+        }
+    ]
+}

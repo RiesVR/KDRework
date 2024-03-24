@@ -1,0 +1,45 @@
+{
+    "name": "General Rules",
+    "rules": [
+        {
+            "title": "RDM (Random Death Match)",
+            "description": "You need a valid Roleplay reason to kill someone. That includes raiding, defending allied bases and after a warning. Killing without a valid RP reason will be punished. Kill On Sight is not allowed except valid RP-Reasons like: Cops can KOS terrorists. Defending your / your allies base. Textscreens outside your base/shop, clearly visible and readable, that state valid RP reasons for KOS. Missclicks and Crossfire count as RDM."
+        },
+        {
+            "title": "NLR (New Life Rule)",
+            "description": "After you die you must forget everything from your previous life that involved your death. You cannot remember who killed you or was involved in your death, the reason and place of death. You may not return to your place of death or near it for 3 minutes. You may not return to your base until a raid is over even if it takes longer than the NLR Timer. Hobos do not have NLR."
+        },
+        {
+            "title": "Fear RP",
+            "description": "You must follow 'Fear RP' when being mugged or kidnapped, meaning if a mugger/kidnapper has a gun pointed at you and you are at a disadvantage, you must not fight back or run away. If you have friends with you and outnumber the mugger/kidnapper you may fight back. If you are already holding a gun before the Roleplay event takes place you may fight back. FearRP is void in the following circumstances; a shot is fired, damage is done to the victim/attacker or the event is countered."
+        },
+        {
+            "title": "Roleplaying",
+            "description": "You must always act appropriately to your job and role in the server i.e. if you are playing as a Gun Dealer you can’t sell illegal goods and need to set up shop. Cops may not be corrupt or break the law. No Rogue or dirty cops. You should treat your In-Game life as something valuable. You should not bring yourself in dangerous situations except you need to. Jobs from the “Evil” Section may bring themselves or others in dangerous situations in RP Situations. But Follow 2.1 RDM and 2.3 FearRp."
+        },
+        {
+            "title": "Spawn",
+            "description": "Spawn Killing is forbidden. You are not allowed to block the spawn in any way or form. Please leave the spawn immediately."
+        },
+        {
+            "title": "Props",
+            "description": "You may not use props to gain an unfair advantage in any way i.e. propclimbing/propblocking/prop pushing/prop slamming. You may not Prop-Spam. You may not use invisible Props or bright hurting colours or textures. Trying to crash the server with props or any other way will result in a Permaban In-Game and on discord. You may also not block off NPC’s without permission from a Super-Admin+."
+        },
+        {
+            "title": "Printers",
+            "description": "You may not sell-on or trade your VIP printers for in-game money. Furthermore, all printers must be accessible via basic standards of a raid, they cannot be hidden or placed out of reach."
+        },
+        {
+            "title": "Weapon Checks & Arrests/Warrants",
+            "description": "Law Enforcement may not randomly arrest/Warrant or Weapon Check any player. Law Enforcement may Weapon check when they saw a weapon and need to confirm if it is legal or not. Law Enforcement is allowed to arrest on sight anyone that is wanted or is actively breaking the law."
+        },
+        {
+            "title": "Laws",
+            "description": "The Mayor may create any law within reason. Unreasonable laws include: Laws that encourage rule-breaking. Laws that are extremely unrealistic and unavoidable, these are seen as loopholes to RDA. For example a Large Scale Lockdown to control the drug traffic. Laws may not force Police to KOS. Law Enforcement should always seek to arrest and not kill. You may not make a Law against a job of KDGRework with the exception of Freerunner near checkpoints. If you are unsure about a law contact a member of our Staff Team. Laws must follow our Rules and Guidelines sections above."
+        },
+        {
+            "title": "Scamming",
+            "description": "Scamming is not allowed and may lead to permanent ban."
+        }
+    ]
+}
