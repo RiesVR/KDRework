@@ -1,7 +1,8 @@
 import './App.css';
 import {
-  createBrowserRouter,
-  RouterProvider,
+  BrowserRouter as Router,
+  Routes,
+  Route,
 } from "react-router-dom";
 import Homepage from "./routes/Homepage";
 import RulesList from './routes/RulesList';
@@ -13,41 +14,20 @@ import KdReworkRules from './data/rules/kd-rework-rules.json';
 import PropertyRules from './data/rules/property-rules.json';
 import RoleplayRules from './data/rules/roleplay-rules.json';
 
-const router = createBrowserRouter([
-  {
-    path: "/",
-    element: <Homepage />,
-  },
-  {
-    path: "general-rules",
-    element: <RulesList data={GeneralRules} prefixNumber={2} />,
-  },
-  {
-    path: "job-rules",
-    element: <RulesList data={JobRules} prefixNumber={5} />,
-  },
-  {
-    path: "kdg-rework-rules",
-    element: <RulesList data={KdReworkRules} prefixNumber={1} />,
-  },
-  {
-    path: "property-rules",
-    element: <RulesList data={PropertyRules} prefixNumber={3} />,
-  },
-  {
-    path: "rolepaly-rules",
-    element: <RulesList data={RoleplayRules} prefixNumber={4} />,
-  },
-  {
-    path: "welcome",
-    element: <Welcome />,
-  }
-]);
-
 function App() {
   return (
     <div className="App">
-      <RouterProvider router={router} />
+      <Router>
+        <Routes>
+          <Route path="/" element={<Homepage />} />
+          <Route path="/kdg-rework-rules" element={<RulesList data={KdReworkRules} prefixNumber={1} />} />
+          <Route path="/general-rules" element={<RulesList data={GeneralRules} prefixNumber={2} />} />
+          <Route path="/property-rules" element={<RulesList data={PropertyRules} prefixNumber={3} />} />
+          <Route path="/roleplay-rules" element={<RulesList data={RoleplayRules} prefixNumber={4} />} />
+          <Route path="/job-rules" element={<RulesList data={JobRules} prefixNumber={5} />} />
+          <Route path="/welcome" element={<Welcome />} />
+        </Routes>
+      </Router>
     </div>
   );
 }
