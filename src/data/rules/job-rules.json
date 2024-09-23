@@ -34,29 +34,34 @@
             "title": "Banker",
              "subrules": [
                 {
-                    "title": "Follow the Law:",
-                    "description": "Citizens must obey city laws and avoid criminal activities like robbery or murder."
+                    "title": "No Criminal Activity:",
+                    "description": "Bankers cannot engage in illegal activities, such as money laundering, robbery, or theft."
                 },
                 {
-                    "title": "No Heavy Weapons:",
-                    "description": "Citizens cannot own or use illegal weapons. Self-defense weapons like pistols are allowed."
+                    "title": "No Weapons:",
+                    "description": "Bankers are not allowed to carry or use illegal weapons. Legal, self-defense weapons like pistols are permitted."
                 },
                  {
                     "title": "No Criminal Basing:",
-                    "description": "Do not base or associate with criminals (e.g., gangsters, thieves)."
+                    "description": "Bankers cannot base with or assist criminals in any illegal operations."
                 },
                  {
-                    "title": "No Illegal Activity:",
-                    "description": "Citizens cannot commit crimes, deal drugs, or help criminals."
+                    "title": "Bank Security:",
+                    "description": "Bankers can hire security, but they must follow the law and not assist in criminal activity."
                 },
                 {
-                    "title": "Protests:",
-                    "description": "Peaceful protests are allowed but must remain non-violent."
+                    "title": "Money Storage Only:",
+                    "description": "Bankers may only offer services related to money storage and safeguarding. They cannot hide or store illegal items for others."
                 },
                 {
-                    "title": "Voting & Reporting:",
-                    "description": "Citizens can vote in elections and report crimes to the police."
+                    "title": "No Loan Sharking:",
+                    "description": "Bankers may not charge excessive interest rates or engage in illegal lending practices."
+                },
+                {
+                    "title": "Building in the Bank:",
+                    "description": "Bankers may not charge excessive interest rates or engage in illegal lending practices." 
                 }
+                
             ]
         },
         {
