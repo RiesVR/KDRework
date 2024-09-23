@@ -2,8 +2,9 @@
     "name": "Job Rules",
     "rules": [
         {
-            "title": "Hobos",
+            "title": "Citizen",
             "description": "You may not own property, but may own a firearm to protect yourself. You may build a small shelter that is not blocking anyone or anything."
+            
         },
         {
             "title": "Banker",
