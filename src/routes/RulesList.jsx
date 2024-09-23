@@ -10,7 +10,7 @@ const RulesList = ({ data, prefixNumber }) => {
                 <h2 className='title'><span className='numbers'>{prefixNumber}</span> {data.name}</h2>
                 {data.rules.map((rule, index) => (
                     <li key={index} className='rule--block'>
-                        <h3 className='title'><span className='numbers'>{prefixNumber}.{index + 1}</span> {rule.title}</h3>
+                        <h3 className='title'>{rule.title}</h3>
                         <p>{rule.description}</p>
                         {rule.subrules && rule.subrules.length > 0 && (
                             <ul>
