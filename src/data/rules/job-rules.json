@@ -11,6 +11,22 @@
                 {
                     "title": "No Heavy Weapons:",
                     "description": "Citizens cannot own or use illegal weapons. Self-defense weapons like pistols are allowed."
+                },
+                 {
+                    "title": "No Criminal Basing:",
+                    "description": "Do not base or associate with criminals (e.g., gangsters, thieves)."
+                },
+                 {
+                    "title": "No Illegal Activity:",
+                    "description": "Citizens cannot commit crimes, deal drugs, or help criminals."
+                },
+                {
+                    "title": "Protests:",
+                    "description": "Peaceful protests are allowed but must remain non-violent."
+                },
+                {
+                    "title": "Voting & Reporting:",
+                    "description": "Citizens can vote in elections and report crimes to the police."
                 }
             ]
         },
