@@ -5,11 +5,11 @@
             "title": "Citizen",
             "subrules": [
                 {
-                    "title": "1. Follow the Law:",
+                    "title": "Follow the Law:",
                     "description": "Citizens must obey city laws and avoid criminal activities like robbery or murder."
                 },
                 {
-                    "title": " 2. No Heavy Weapons:",
+                    "title": "No Heavy Weapons:",
                     "description": "Citizens cannot own or use illegal weapons. Self-defense weapons like pistols are allowed."
                 }
             ]
