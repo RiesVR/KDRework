@@ -7,10 +7,10 @@ const RulesList = ({ data, prefixNumber }) => {
                 <img src={logo} className="logo" alt="logo" />
             </header>
             <ul>
-                <h2 className='title'><span className='numbers'>{data.name}</span></h2>
+                <h2 className='title'>{data.name}</h2>
                 {data.rules.map((rule, index) => (
                     <li key={index} className='rule--block'>
-                        <h3 className='title'><span className='numbers'>{rule.title}</span></h3>
+                        <h3 className='title'>{rule.title}</h3>
                         <p>{rule.description}</p>
                         {rule.subrules && rule.subrules.length > 0 && (
                             <ul>
