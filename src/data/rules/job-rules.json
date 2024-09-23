@@ -32,10 +32,30 @@
         },
         {
             "title": "Banker",
-            "description": "As a Banker your job is to build defences inside the Bank. You may hire Security Guards for additional security. You may only accept legal goods and of course printers.",
-            "subrules": [
+             "subrules": [
                 {
-                    "title": "6.6 Applies as well."
+                    "title": "Follow the Law:",
+                    "description": "Citizens must obey city laws and avoid criminal activities like robbery or murder."
+                },
+                {
+                    "title": "No Heavy Weapons:",
+                    "description": "Citizens cannot own or use illegal weapons. Self-defense weapons like pistols are allowed."
+                },
+                 {
+                    "title": "No Criminal Basing:",
+                    "description": "Do not base or associate with criminals (e.g., gangsters, thieves)."
+                },
+                 {
+                    "title": "No Illegal Activity:",
+                    "description": "Citizens cannot commit crimes, deal drugs, or help criminals."
+                },
+                {
+                    "title": "Protests:",
+                    "description": "Peaceful protests are allowed but must remain non-violent."
+                },
+                {
+                    "title": "Voting & Reporting:",
+                    "description": "Citizens can vote in elections and report crimes to the police."
                 }
             ]
         },
