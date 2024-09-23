@@ -17,6 +17,7 @@ const RulesList = ({ data, prefixNumber }) => {
                                 {rule.subrules.map((subRule, subIndex) => (
                                     <li key={subIndex} className='sub-rule--block'>
                                         <p><span className='numbers'>{prefixNumber}.{index + 1}.{subIndex + 1}</span> {subRule.title}</p>
+                                        <p>{subRule.description}</p>
                                     </li>
                                 ))}
                             </ul>
