@@ -3,7 +3,14 @@
     "rules": [
         {
             "title": "Citizen",
-            "description": "You may not own property, but may own a firearm to protect yourself. You may build a small shelter that is not blocking anyone or anything."
+             "subrules": [
+                {
+                    "title": "1. Follow the Law:",
+                    "description": "Citizens must obey city laws and avoid criminal activities like robbery or murder."
+                }
+            ]
+            
+            
             
         },
         {
