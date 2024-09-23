@@ -86,3 +86,12 @@ h3 {
   width: 100vw;
   height: 100vh;
 }
+
+.sub-rule--title {
+  margin: 0;
+  font-weight: bold;
+}
+
+.sub-rule--description {
+  margin: 0;
+}
