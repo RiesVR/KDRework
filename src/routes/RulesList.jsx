@@ -18,6 +18,7 @@ const RulesList = ({ data, prefixNumber }) => {
                                     <li key={subIndex} className='sub-rule--block'>
                                         <p className='sub-rule--title'><span className='numbers'>{subIndex + 1}.</span> {subRule.title}</p>
                                         <p className='sub-rule--description'>{subRule.description}</p>
+                                        ries ♥ pietjes
                                     </li>
                                 ))}
                             </ul>
