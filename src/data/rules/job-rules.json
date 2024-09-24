@@ -64,82 +64,922 @@
                 
             ]
         },
-        {
+         {
             "title": "Hotel Manager",
-            "description": "You may only own 1 Hotel as Hotel Manager. You may build defences in the lobby that do not count towards base defence. You may hire additional security.",
             "subrules": [
                 {
-                    "title": "6.6 Applies as well."
-                }
-            ]
-        },
-        {
-            "title": "Estate Manager",
-            "description": "You may buy multiple properties and sell them for money. You may maximum charge $5.000 per normal base and $75.000 for a big one. You may only own 1 Big Base and 4 Normal bases at a time.",
-            "subrules": [
-                {
-                    "title": "6.6 Applies as well."
-                }
-            ]
-        },
-        {
-            "title": "Pianist and Radio Manager",
-            "description": "You may also use the Pub and charge a fee if there is no bartender.",
-            "subrules": [
-                {
-                    "title": "6.6 Applies as well."
+                    "title": "No Criminal Activity",
+                    "description": "Hotel Managers cannot engage in or assist with illegal activities."
                 },
                 {
-                    "title": "Radio Manager may play on public area as well, with the exception that the public road may not be blocked."
+                    "title": "No Weapons",
+                    "description": "Carrying legal self-defense weapons (e.g. pistols) is permitted but illegal weapons are not allowed."
+                },
+                {
+                    "title": "Room Rentals",
+                    "description": "You can rent rooms to anyone including individuals with illegal activities. Ensure all transactions are lawful and within server rules."
+                },
+                {
+                    "title": "No Basing with Criminals",
+                    "description": "While you can rent rooms to criminals, you must not participate in or support illegal activities."
+                },
+                {
+                    "title": "Hotel Security",
+                    "description": "Hiring security for the hotel is allowed. Ensure they follow the law and do not assist with criminal activities."
+                },
+                {
+                    "title": "Hotel Operations Only",
+                    "description": "Focus solely on managing the hotel and providing rental services. Avoid involvement in unrelated activities."
                 }
             ]
         },
-        {
-            "title": "Medic",
-            "description": "You may heal any player on the server for a small fee. You may build inside the Hospital. You may only block off the Health NPC with Super-Admin+ permission.",
+         {
+            "title": "Radio Manager",
             "subrules": [
                 {
-                    "title": "6.6 Applies as well."
+                    "title": "No Criminal Activity",
+                    "description": "Radio Managers must not engage in or support illegal activities."
+                },
+                {
+                    "title": "No Weapons",
+                    "description": "Carrying legal self-defense weapons (e.g. pistols) is allowed but illegal weapons are prohibited."
+                },
+                {
+                    "title": "Broadcasting Rules",
+                    "description": "Ensure all broadcasts are within server rules and do not incite violence or criminal activity."
+                },
+                {
+                    "title": "No Basing with Criminals",
+                    "description": "You may work with or interact with criminals for business purposes but cannot assist them in illegal activities."
+                },
+                {
+                    "title": "Maintain Professionalism",
+                    "description": "Use the radio station for its intended purpose only. Avoid using the station to promote illegal activities or personal agendas."
+                },
+                {
+                    "title": "No Unauthorized Equipment",
+                    "description": "Do not use or possess unauthorized equipment or tools not related to radio operations."
                 }
             ]
         },
-        {
-            "title": "Merchants",
-            "description": "As a legal merchant your role is to sell items to the public; you must not refuse to sell your goods to anyone without a viable reason. You may have legal money printers inside the bank. You also may own property to set up shop and can use legal weapons.",
+         {
+            "title": "Pianist",
             "subrules": [
                 {
-                    "title": "6.6.1 Black Market Dealer / Drug Dealer Playing as an illegal merchant your role is to sell items to fellow criminals; this must be done in a building to prevent the Government arresting you and fellow criminals. Failure to hide your sales may result in a FailRP warning, so no /advert 'I sell Illegal guns'. Creative marketing i.e. 'I got exotic goods' is still allowed."
+                    "title": "No Criminal Activity",
+                    "description": "Pianists must not engage in or support illegal activities."
+                },
+                {
+                    "title": "No Weapons",
+                    "description": "Carrying legal self-defense weapons (e.g. pistols) is allowed but illegal weapons are prohibited."
+                },
+                {
+                    "title": "No Spawning Pianos in Public",
+                    "description": "Do not spawn or place pianos in public areas like streets or sidewalks."
+                },
+                {
+                    "title": "Performance Locations",
+                    "description": "Performances should be held in suitable locations like clubs or designated performance areas."
+                },
+                {
+                    "title": "No Basing with Criminals",
+                    "description": "You may perform in establishments owned by criminals but you cannot assist in or support any illegal activities."
+                },
+                {
+                    "title": "Maintain Professionalism",
+                    "description": "Ensure that performances are respectful and adhere to server rules and standards."
                 }
             ]
         },
-        {
-            "title": "Hitman",
-            "description": "You may accept a bounty each 10 minutes. You may not accept a bounty for the same target for 25 minutes. You may only kill your Target."
-        },
-        {
-            "title": "Terrorist",
-            "description": "Cops may KOS you. You may defend your life but no KOS. You may start an assault on the PD and use a detonator once every 30 minutes. RDM still counts."
-        },
-        {
-            "title": "Freerunner",
-            "description": "You may raid bases with your special talents. Once you entered a base it counts as a raid. Raid rules still apply."
-        },
-        {
-            "title": "Law Enforcement (Police, S.AS, SWAT)",
-            "description": "In the Government your role is to protect the general public from crime and to enforce the law. You must follow your orders given by higher officials (e.g. SWAT Leader/Police Chief/Mayor). You can build inside the Police Department IF you have the permission from the Mayor. You may not unarrest any person(s) in jail without a viable reason. You are encouraged to try to arrest criminals before killing them, however this is not always viable in situations where your life/others is in danger i.e you witness a violent crime, a criminal has a gun pointed at you etc.",
+       {
+            "title": "Estate Manager",
             "subrules": [
                 {
-                    "title": "6.10.1 Checkpoints: Law Enforcement is allowed to build one Checkpoint on the map. The checkpoint must be overseen by at least one moderator+ and it needs permission from an admin+. The admin that gave permission always has last word in anything regarding the checkpoint."
+                    "title": "No Criminal Activity",
+                    "description": "Estate Managers must not engage in or support illegal activities."
+                },
+                {
+                    "title": "No Weapons",
+                    "description": "Carrying legal self-defense weapons (e.g. pistols) is allowed but illegal weapons are prohibited."
+                },
+                {
+                    "title": "Property Management",
+                    "description": "Manage properties and estates responsibly. Ensure all dealings are lawful and within server rules."
+                },
+                {
+                    "title": "No Basing with Criminals",
+                    "description": "You may manage properties rented by criminals but cannot assist them in illegal activities."
+                },
+                {
+                    "title": "No Unauthorized Modifications",
+                    "description": "Do not modify or alter properties in ways that violate server rules."
+                },
+                {
+                    "title": "Maintain Professionalism",
+                    "description": "Ensure all interactions and transactions are handled professionally."
                 }
             ]
         },
+       {
+               "title": "Gun Dealer",
+               "subrules": [
         {
-            "title": "Mayor",
-            "description": "The Mayor must have valid reasons to fire any member of his police force. Lockdowns require a valid RP Reason and may not be longer than 10 minutes at a time. With a cool down of 5 minutes between lockdowns. The Mayor can give permission to the Law Enforcement to build in the Police Department. Lobby must be publicly accessible and beyond can be used for defenses. The Mayor can also ask Law Enforcement to remove a building/defenses. Mayor can only build in his own Office."
+            "title": "No Criminal Activity",
+            "description": "Gun Dealers must not engage in or support illegal activities."
         },
         {
-            "title": "Secret Service",
-            "description": "You need to follow and protect the Mayor. You are not part of the official Law Enforcement."
+            "title": "No Self-Supply",
+            "description": "Gun Dealers cannot use or carry weapons for personal self-defense or personal use."
+        },
+        {
+            "title": "Sell to All Players",
+            "description": "You can sell weapons to any player including those involved in illegal activities."
+        },
+        {
+            "title": "No Basing with Criminals",
+            "description": "Do not base with or support criminals in illegal activities."
+        },
+        {
+            "title": "Legal Transactions Only",
+            "description": "Ensure all sales are lawful and within the server’s guidelines."
+        },
+        {
+            "title": "Maintain Professionalism",
+            "description": "Conduct your business transactions professionally."
         }
+    ]
+},
+        {
+            "title": "Bitcoin Miner",
+            "subrules": [
+                {
+                    "title": "No Criminal Activity",
+                    "description": "Bitcoin Miners must not engage in or support illegal activities."
+                },
+                {
+                    "title": "No Weapons",
+                    "description": "Carrying legal self-defense weapons (e.g. pistols) is permitted but illegal weapons are prohibited."
+                },
+                {
+                    "title": "Mining Locations",
+                    "description": "Do not set up mining equipment in public areas or obstruct pathways."
+                },
+                {
+                    "title": "No Basing with Criminals",
+                    "description": "You can interact with or provide services to criminals but cannot assist them in illegal activities."
+                },
+                {
+                    "title": "No Unauthorized Equipment",
+                    "description": "Only use mining equipment and tools approved by server rules."
+                },
+                {
+                    "title": "Maintain Professionalism",
+                    "description": "Focus on mining operations and avoid involvement in activities unrelated to your role."
+                }
+            ]
+        },
+        {
+            "title": "Horse Racing Organizer",
+            "subrules": [
+                {
+                    "title": "No Criminal Activity",
+                    "description": "Horse Racing Organizers must not engage in or support illegal activities."
+                },
+                {
+                    "title": "No Weapons",
+                    "description": "Carrying legal self-defense weapons (e.g. pistols) is allowed but illegal weapons are prohibited."
+                },
+                {
+                    "title": "Use Approved Buildings",
+                    "description": "Conduct horse racing events in designated or appropriate buildings."
+                },
+                {
+                    "title": "No Basing with Criminals",
+                    "description": "You can interact with criminals for business purposes but cannot assist them in illegal activities."
+                },
+                {
+                    "title": "Respect Public Space",
+                    "description": "Ensure races are organized in a way that does not obstruct public areas or disrupt other players."
+                },
+                {
+                    "title": "Maintain Fair Play",
+                    "description": "Ensure races are conducted fairly and transparently."
+                }
+            ]
+        },
+         {
+            "title": "Casino Manager",
+            "subrules": [
+                {
+                    "title": "No Criminal Activity",
+                    "description": "Casino Managers must not engage in or support illegal activities."
+                },
+                {
+                    "title": "No Weapons",
+                    "description": "Carrying legal self-defense weapons (e.g. pistols) is allowed but illegal weapons are prohibited."
+                },
+                {
+                    "title": "Use Approved Buildings",
+                    "description": "Conduct casino operations within designated casino buildings."
+                },
+                {
+                    "title": "Fair Gaming Practices",
+                    "description": "Ensure all casino games and operations are conducted fairly and transparently."
+                },
+                {
+                    "title": "No Basing with Criminals",
+                    "description": "While you can interact with criminals for business purposes, you cannot assist them in illegal activities."
+                },
+                {
+                    "title": "Respect Public Space",
+                    "description": "Ensure casino activities do not obstruct public areas or disrupt other players."
+                }
+            ]
+        },
+        {
+        "title": "Smoothie Maker",
+        "subrules": [
+            {
+                "title": "Prepare and Sell Smoothies",
+                "description": "Your primary role is to create and sell smoothies to players."
+            },
+            {
+                "title": "Sell on the Street",
+                "description": "You can sell smoothies on the street but must not block the street or obstruct pedestrian traffic."
+            },
+            {
+                "title": "Carry Legal Self-Defense Weapons Only",
+                "description": "You may carry legal self-defense weapons (e.g. pistols) for protection but illegal weapons are prohibited."
+            },
+            {
+                "title": "No Random Deathmatch (RDM)",
+                "description": "Do not attack or kill other players without a valid reason."
+            },
+            {
+                "title": "Respect Other Players",
+                "description": "Interact with other players in a friendly and professional manner."
+            },
+            {
+                "title": "Maintain a Clean Workspace",
+                "description": "Keep your smoothie-making area tidy and organized to ensure a positive experience for customers."
+            }
+        ]
+    },
+         {
+        "title": "Miner",
+        "subrules": [
+            {
+                "title": "No Criminal Activity",
+                "description": "Miners must not engage in or support illegal activities."
+            },
+            {
+                "title": "No Weapons",
+                "description": "Carrying legal self-defense weapons (e.g. pistols) is permitted but illegal weapons are prohibited."
+            },
+            {
+                "title": "Mining Locations",
+                "description": "Conduct mining operations in designated or appropriate areas. Avoid obstructing public spaces."
+            },
+            {
+                "title": "Sell Only to NPCs",
+                "description": "Miners may only sell resources to NPCs, not to other players."
+            },
+            {
+                "title": "No Basing with Criminals",
+                "description": "You can work with or interact with criminals but cannot assist them in illegal activities."
+            },
+            {
+                "title": "Maintain Professionalism",
+                "description": "Focus on mining operations and avoid involvement in activities unrelated to your role."
+            }
+        ]
+    },
+    {
+        "title": "Wine Maker",
+        "subrules": [
+            {
+                "title": "Create and Sell Wine",
+                "description": "Your primary role is to produce and sell wine to the NPC."
+            },
+            {
+                "title": "Sell on the Street",
+                "description": "You can sell wine on the street but must not block the street or obstruct pedestrian traffic."
+            },
+            {
+                "title": "Carry Legal Self-Defense Weapons Only",
+                "description": "You may carry legal self-defense weapons (e.g. pistols) for protection but illegal weapons are prohibited."
+            },
+            {
+                "title": "No Random Deathmatch (RDM)",
+                "description": "Do not attack or kill other players without a valid reason."
+            },
+            {
+                "title": "Respect Other Players",
+                "description": "Interact with other players in a friendly and professional manner."
+            },
+            {
+                "title": "Maintain a Clean Workspace",
+                "description": "Keep your wine-making area tidy and organized to ensure a positive experience for customers."
+            }
+        ]
+    },
+     {
+    "title": "Police",
+    "subrules": [
+        {
+            "title": "Follow the Law and Mayor’s Orders",
+            "description": "Adhere to all city laws and regulations set by the Mayor. Enforce laws fairly and consistently."
+        },
+        {
+            "title": "No Criminal Activity",
+            "description": "Police officers must not engage in or support illegal activities. Maintain the highest standards of integrity."
+        },
+        {
+            "title": "No Personal Weapon Use",
+            "description": "Carry and use only approved police equipment and weapons. Personal or illegal weapons are prohibited."
+        },
+        {
+            "title": "No Basing with Criminals",
+            "description": "Police officers cannot base with or assist criminals in any way."
+        },
+        {
+            "title": "Proper Conduct",
+            "description": "Act professionally at all times. Avoid abuse of power, corruption, or misconduct while on duty."
+        },
+        {
+            "title": "Respect Public Space",
+            "description": "Perform duties without obstructing or disrupting public areas."
+        },
+        {
+            "title": "Respond to Emergencies",
+            "description": "Prioritize and respond to emergencies and crimes promptly."
+        }
+    ]
+},
+        {
+    "title": "S.A.S / S.A.S Sniper / S.A.S Leader",
+    "subrules": [
+        {
+            "title": "Follow the Law and Mayor’s Orders",
+            "description": "Adhere to all city laws and directives issued by the Mayor. Uphold law and order."
+        },
+        {
+            "title": "No Criminal Activity",
+            "description": "SAS members must not engage in or support illegal activities."
+        },
+        {
+            "title": "Authorized Weapon Use",
+            "description": "Carry and use only approved SAS equipment and weapons. Personal or illegal weapons are prohibited."
+        },
+        {
+            "title": "No Basing with Criminals",
+            "description": "SAS members cannot base with or assist criminals."
+        },
+        {
+            "title": "Special Operations Only",
+            "description": "Focus on specialized tasks and operations as designated by your role."
+        },
+        {
+            "title": "Professional Conduct",
+            "description": "Maintain professionalism and follow operational protocols."
+        },
+        
+    ]
+},
+      {
+    "title": "S.W.A.T. / S.W.A.T Sniper / S.W.A.T Leader",
+    "subrules": [
+        {
+            "title": "Follow the Law and Mayor’s Orders",
+            "description": "Adhere to all city laws and directives from the Mayor. Execute SWAT missions while ensuring compliance with legal and server regulations."
+        },
+        {
+            "title": "No Criminal Activity",
+            "description": "SWAT members must not engage in or support illegal activities. Maintain high standards of professionalism and integrity."
+        },
+        {
+            "title": "Authorized Equipment Only",
+            "description": "Use only approved SWAT gear and weapons. Personal or illegal weapons are not permitted."
+        },
+        {
+            "title": "No Self-Supply",
+            "description": "SWAT members cannot use or carry weapons for personal use. All equipment must be used strictly for official duties."
+        },
+        {
+            "title": "Specialized Role",
+            "description": "Focus exclusively on high-risk and tactical operations. Avoid involvement in routine police duties or unrelated activities."
+        },
+        {
+            "title": "No Basing with Criminals",
+            "description": "You cannot base with or assist criminals. Avoid any interactions that could compromise your role or the mission."
+        },
+        {
+            "title": "Respect Public Space",
+            "description": "Conduct operations with minimal disruption to public areas. Ensure your actions do not negatively impact other players."
+        },
+        {
+            "title": "Professional Conduct",
+            "description": "Maintain professionalism and follow server protocols at all times. Ensure that all actions are justified and necessary for your role."
+        },
+        {
+            "title": "Emergency Response",
+            "description": "Be prepared to handle critical situations such as hostage rescues or high-risk arrests. Coordinate with your team and execute operations with precision and care."
+        }
+    ]
+},
+       {
+    "title": "Secret Service",
+    "subrules": [
+        {
+            "title": "Protect the Mayor",
+            "description": "Your primary responsibility is to ensure the safety and security of the Mayor. Provide protection during public appearances and secure their residence and office."
+        },
+        {
+            "title": "Follow the Law and Mayor’s Orders",
+            "description": "Adhere to all city laws and directives from the Mayor. Execute your duties in alignment with legal and server regulations."
+        },
+        {
+            "title": "No Criminal Activity",
+            "description": "Secret Service members must not engage in or support illegal activities. Maintain the highest level of professionalism and integrity."
+        },
+        {
+            "title": "Equipment",
+            "description": "You can use the weapons and equipment provided upon spawning. Legal personal weapons are allowed."
+        },
+        {
+            "title": "No Self-Supply",
+            "description": "Secret Service members cannot use or carry weapons for personal self-defense. All equipment must be used strictly for official duties."
+        },
+        {
+            "title": "No Basing with Criminals",
+            "description": "You cannot base with or assist criminals. Avoid any interactions that could compromise your role or the safety of the Mayor."
+        },
+        {
+            "title": "Respect Public Space",
+            "description": "Conduct operations with minimal disruption to public areas. Ensure your actions do not negatively impact other players."
+        },
+        {
+            "title": "Professional Conduct",
+            "description": "Maintain a high standard of professionalism and follow server protocols at all times. Ensure that all actions are justified and necessary for protecting the Mayor."
+        },
+        {
+            "title": "Emergency Response",
+            "description": "Be prepared to respond to threats or emergencies involving the Mayor. Coordinate with your team to manage and mitigate risks effectively."
+        }
+    ]
+},
+        {
+  "title": "Security Guard",
+  "subrules": [
+    {
+      "title": "Follow the Law and Property Rules",
+      "description": "Adhere to all city laws and the specific rules of the property you are assigned to protect. Ensure all actions comply with legal and server guidelines."
+    },
+    {
+      "title": "No Criminal Activity",
+      "description": "Security Guards must not engage in or support illegal activities. Maintain professionalism and integrity at all times."
+    },
+    {
+      "title": "Equipment",
+      "description": "You can use the weapons and equipment provided upon spawning. Legal personal weapons are allowed."
+    },
+    {
+      "title": "No Self-Supply",
+      "description": "Security Guards cannot use or carry weapons for personal self-defense. All equipment must be used strictly for official security duties."
+    },
+    {
+      "title": "Hireable by All",
+      "description": "You may be hired by anyone, including individuals involved in illegal activities. Ensure that your role as a security guard remains professional and focused on protecting property."
+    },
+    {
+      "title": "Protect Assigned Property",
+      "description": "Focus on securing and monitoring the designated property or area. Prevent unauthorized access and respond to any security breaches or incidents."
+    },
+    {
+      "title": "No Basing with Criminals",
+      "description": "While you may be hired by criminals, do not base with them or assist in illegal activities. Maintain a clear boundary between your security duties and any illegal operations."
+    },
+    {
+      "title": "Respect Public Space",
+      "description": "Perform duties without obstructing or disrupting public areas. Ensure your presence and actions do not negatively impact other players or gameplay."
+    },
+    {
+      "title": "Professional Conduct",
+      "description": "Maintain a high level of professionalism in all interactions. Follow server protocols and address security concerns efficiently and respectfully."
+    },
+    {
+      "title": "Emergency Response",
+      "description": "Be prepared to handle emergencies or security incidents. Respond promptly to breaches or threats and coordinate with other security personnel as needed."
+    }
+  ]
+},
+  {
+  "title": "Mayor Job",
+  "subrules": [
+    {
+      "title": "Follow the Law and Server Rules",
+      "description": "Adhere to all city laws and server regulations. Ensure that all policies and decisions align with legal standards and server guidelines."
+    },
+    {
+      "title": "No Criminal Activity",
+      "description": "The Mayor must not engage in or support illegal activities. Maintain high standards of integrity and professionalism."
+    },
+    {
+      "title": "City Laws",
+      "description": "Implement city laws fairly and consistently. Ensure that all city regulations are communicated clearly and followed by all players."
+    },
+    {
+      "title": "No Personal Gain",
+      "description": "Decisions and actions should be made in the best interest of the city and its citizens, not for personal gain or benefit."
+    },
+    {
+      "title": "Public Engagement",
+      "description": "Engage with the public and address their concerns. Organize city meetings or events as needed to maintain open communication with citizens."
+    },
+    {
+      "title": "Security and Protection",
+      "description": "Ensure the safety and security of city operations. Work closely with law enforcement and security personnel to maintain order."
+    },
+    {
+      "title": "Respect Other Roles",
+      "description": "Collaborate with other roles and respect their functions within the server. Avoid interference in roles that do not fall under your jurisdiction."
+    },
+    {
+      "title": "Maintain Professionalism",
+      "description": "Conduct yourself with professionalism at all times. Avoid actions or behaviors that could negatively impact your role or the city."
+    },
+    {
+      "title": "Emergency Response",
+      "description": "Be prepared to respond to city-wide emergencies and provide leadership during critical situations. Coordinate with other officials and emergency services as necessary."
+    },
+    {
+      "title": "Transparency",
+      "description": "Ensure that decisions, laws, and policies are transparent and accessible to the public. Provide clear explanations for any significant changes or actions."
+    }
+  ]
+},
+ {
+  "title": "Police Medic",
+  "subrules": [
+    {
+      "title": "Follow the Law and Police Procedures",
+      "description": "Adhere to all city laws and police protocols. Ensure that all actions are in line with legal and server regulations."
+    },
+    {
+      "title": "No Criminal Activity",
+      "description": "Police Medics must not engage in or support illegal activities. Maintain professionalism and integrity at all times."
+    },
+    {
+      "title": "Authorized Equipment Only",
+      "description": "Use only the equipment provided for your role as a Police Medic. Personal or unauthorized weapons and equipment are not permitted."
+    },
+    {
+      "title": "Emergency Medical Assistance",
+      "description": "Provide medical assistance to police officers and other players as needed. Focus on emergency care and response during critical situations."
+    },
+    {
+      "title": "No Self-Supply",
+      "description": "Police Medics cannot use or carry weapons for personal self-defense. All equipment and actions must be strictly for medical purposes related to your role."
+    },
+    {
+      "title": "Respect Public Space",
+      "description": "Perform medical duties without obstructing or disrupting public areas. Ensure that your presence and actions do not negatively impact other players or gameplay."
+    },
+    {
+      "title": "No Basing with Criminals",
+      "description": "You may interact with criminals for medical reasons, but you cannot base with them or assist in illegal activities. Maintain a clear boundary between medical assistance and criminal activities."
+    },
+    {
+      "title": "Professional Conduct",
+      "description": "Maintain a high level of professionalism in all interactions. Provide medical care efficiently and respectfully while adhering to server rules and protocols."
+    },
+    {
+      "title": "Cooperate with Law Enforcement",
+      "description": "Work closely with police officers and other law enforcement personnel to support their operations and ensure that medical needs are met promptly and effectively."
+    },
+    {
+      "title": "Emergency Response",
+      "description": "Be prepared to respond to emergencies involving injured players or officers. Act quickly and provide appropriate medical care to stabilize and support those in need."
+    }
+  ]
+},
+  {
+  "title": "Black Market Dealer Job Rules",
+  "subrules": [
+    {
+      "title": "Engage in Illegal Activities",
+      "description": "Black Market Dealers are allowed to engage in illegal activities as part of their role. Do not follow city laws or regulations."
+    },
+    {
+      "title": "Use Any Weapon",
+      "description": "You can use any weapon, legal or illegal."
+    },
+    {
+      "title": "No Self-Supply",
+      "description": "Do not use or carry items for personal use. All items must be sold to other players."
+    },
+    {
+      "title": "Sell to All Players",
+      "description": "You can sell items to any player, including those involved in illegal activities."
+    },
+    {
+      "title": "No Basing with Police",
+      "description": "Avoid basing with law enforcement or assisting in legal activities. Maintain a clear boundary from lawful operations."
+    },
+    {
+      "title": "Respect Public Space",
+      "description": "Ensure that your activities do not obstruct or disrupt public areas."
+    },
+    {
+      "title": "Money Printing",
+      "description": "Printing is allowed."
+    }
+  ]
+},
+  {
+  "title": "Drug Dealer",
+  "subrules": [
+    {
+      "title": "Engage in Illegal Activities",
+      "description": "Drug Dealers are allowed to engage in illegal activities. Do not follow city laws or regulations."
+    },
+    {
+      "title": "Sell Drugs to All",
+      "description": "You can sell drugs to any player, including those involved in illegal activities, as well as to NPCs."
+    },
+    {
+      "title": "Use Any Weapon",
+      "description": "You can use any weapon, legal or illegal."
+    },
+    {
+      "title": "No Basing with Law Enforcement",
+      "description": "Avoid basing with or assisting police officers. Maintain a clear separation from lawful operations."
+    },
+    {
+      "title": "Respect Public Space",
+      "description": "Ensure that your activities do not obstruct or disrupt public areas."
+    },
+    {
+      "title": "Money Printing",
+      "description": "Printing is allowed."
+    }
+  ]
+},
+   {
+  "title": "Gangster Job",
+  "subrules": [
+    {
+      "title": "Engage in Illegal Activities",
+      "description": "Gangsters are free to participate in illegal activities such as robbery, raiding, and other criminal acts. Do not follow city laws."
+    },
+    {
+      "title": "Use Any Weapon",
+      "description": "You can use any weapon, whether legal or illegal, to carry out your criminal activities."
+    },
+    {
+      "title": "Work with Your Gang",
+      "description": "Collaborate with other gangsters or a crime boss to organize criminal operations, raids, and territory control."
+    },
+    {
+      "title": "No Random Deathmatch (RDM)",
+      "description": "Do not kill other players without a valid reason, such as raiding, mugging, or defending territory."
+    },
+    {
+      "title": "No Basing with Law Enforcement",
+      "description": "You cannot base with or assist law enforcement. Maintain a clear divide between criminals and the police."
+    },
+    {
+      "title": "Respect Public Space",
+      "description": "Conduct your activities without obstructing or disrupting public areas unnecessarily. Avoid causing random chaos without purpose."
+    },
+    {
+      "title": "Money Printing",
+      "description": "Printing is allowed."
+    }
+  ]
+},
+        {
+  "title": "Mob Boss",
+  "subrules": [
+    {
+      "title": "Lead Criminal Activities",
+      "description": "As the Mob Boss, organize and lead other gangsters in illegal activities such as raids, robberies, and other criminal operations."
+    },
+    {
+      "title": "Use Any Weapon",
+      "description": "You can use any weapon, legal or illegal, to execute your criminal plans and defend your territory."
+    },
+    {
+      "title": "Control Territory",
+      "description": "Work with your gang to establish and defend your base. You can demand protection money from other players or businesses."
+    },
+    {
+      "title": "No Random Deathmatch (RDM)",
+      "description": "Do not kill other players without a valid reason, such as raiding, mugging, or defending territory."
+    },
+    {
+      "title": "No Basing with Law Enforcement",
+      "description": "You cannot base with or assist law enforcement. Maintain a strict separation from police activities."
+    },
+    {
+      "title": "Money Printing",
+      "description": "Printing is allowed."
+    }
+  ]
+},
+        {
+  "title": "Thief / Master Thief",
+  "subrules": [
+    {
+      "title": "Engage in Illegal Activities",
+      "description": "Thieves are allowed to participate in illegal actions such as burglary, lockpicking, and raiding."
+    },
+    {
+      "title": "Use Any Weapon",
+      "description": "You can use any weapon, whether legal or illegal, to carry out your thefts and raids."
+    },
+    {
+      "title": "Steal and Raid",
+      "description": "You are free to steal items, raid bases, and rob other players. Ensure all thefts and raids follow server rules."
+    },
+    {
+      "title": "No Random Deathmatch (RDM)",
+      "description": "Do not kill other players without a valid reason, such as during a raid or robbery."
+    },
+    {
+      "title": "No Basing with Law Enforcement",
+      "description": "You cannot base with or assist law enforcement. Stay separate from police activities."
+    },
+    {
+      "title": "Respect Public Space",
+      "description": "Avoid unnecessary disruption or chaos in public areas unless it's part of a robbery or raid."
+    },
+    {
+      "title": "Money Printing",
+      "description": "Printing is allowed."
+    }
+  ]
+},
+      {
+  "title": "Hitman",
+  "subrules": [
+    {
+      "title": "Only Kill Active Hit Targets",
+      "description": "You are only allowed to kill players with an active hit on them. Do not kill anyone else."
+    },
+    {
+      "title": "Can Ask for Hits",
+      "description": "You are allowed to ask other players to place a hit, but cannot force them."
+    },
+    {
+      "title": "Use Only Spawned Weapons",
+      "description": "You are only allowed to use the weapons you spawn with to complete hits. No additional or purchased weapons."
+    },
+    {
+      "title": "No Random Deathmatch (RDM)",
+      "description": "Do not kill players without an active hit. Ensure all killings are justified by an active contract."
+    },
+    {
+      "title": "No Basing with Law Enforcement",
+      "description": "You cannot base with or assist police officers. Stay separate from lawful operations."
+    },
+    {
+      "title": "Respect Public Space",
+      "description": "Avoid causing unnecessary disruption or chaos while conducting hits in public areas."
+    },
+    {
+      "title": "Money Printing",
+      "description": "Printing is allowed."
+    }
+  ]
+},
+        {
+  "title": "Terrorist",
+  "subrules": [
+    {
+      "title": "Use Only AK-47 and IED Detonator",
+      "description": "You are only allowed to use the AK-47 and IED Detonator bomb to carry out terrorist activities."
+    },
+    {
+      "title": "Bomb Government Targets Only",
+      "description": "You can only bomb or attack members of the government (e.g., Mayor, Police, SWAT). Civilians cannot be targeted."
+    },
+    {
+      "title": "KOS by Police",
+      "description": "Police and law enforcement have the right to kill you on sight (KOS) due to your role as a terrorist."
+    },
+    {
+      "title": "No Random Deathmatch (RDM)",
+      "description": "Do not kill or bomb players outside of valid government targets. Ensure all attacks follow server rules."
+    },
+    {
+      "title": "No Basing with Law Enforcement",
+      "description": "You cannot base with or assist police officers. Maintain a strict separation from law enforcement."
+    },
+    {
+      "title": "Respect Public Space",
+      "description": "Avoid causing unnecessary disruption or chaos in public areas unless targeting government officials."
+    },
+    {
+      "title": "Money Printing",
+      "description": "Printing is allowed."
+    }
+  ]
+},
+    {
+  "title": "FreeRunner",
+  "subrules": [
+    {
+      "title": "Engage in Parkour and Exploration",
+      "description": "As a FreeRunner, your primary role is to perform parkour and explore the city. Illegal activities are permitted as specified."
+    },
+    {
+      "title": "Steal and Break into Homes",
+      "description": "You are allowed to steal from and break into homes, but do so carefully to avoid detection."
+    },
+    {
+      "title": "Use Any Weapon",
+      "description": "FreeRunners can use any weapon available to them, including those they spawn with."
+    },
+    {
+      "title": "Money Printing",
+      "description": "Printing is allowed."
+    },
+    {
+      "title": "No Interfering with Other Jobs",
+      "description": "Do not disrupt or interfere with other players' jobs or roleplay activities. Your actions should not cause harm or inconvenience to others."
+    },
+    {
+      "title": "No Random Deathmatch (RDM)",
+      "description": "You are not allowed to kill or attack other players without a valid reason."
+    },
+    {
+      "title": "No Criminal Activity Beyond Stealing",
+      "description": "While stealing and breaking in are allowed, avoid engaging in additional illegal activities like violent crime."
+    }
+  ]
+},
+        {
+  "title": "Weed Grower",
+  "subrules": [
+    {
+      "title": "Engage in Illegal Activities",
+      "description": "As a Weed Grower, you are allowed to cultivate and sell marijuana."
+    },
+    {
+      "title": "Use Any Weapon",
+      "description": "You can use any weapon available to you to protect your grow operation."
+    },
+    {
+      "title": "Money Printing",
+      "description": "Printing is allowed."
+    },
+    {
+      "title": "Sell to All Players",
+      "description": "You may sell weed to any player, including those involved in illegal activities."
+    },
+    {
+      "title": "No Random Deathmatch (RDM)",
+      "description": "Do not kill other players without a valid reason related to your role."
+    },
+    {
+      "title": "Respect Public Space",
+      "description": "Conduct your activities without obstructing or disrupting public areas unnecessarily."
+    },
+    {
+      "title": "No Basing with Law Enforcement",
+      "description": "Avoid basing with police officers or assisting in legal activities. Maintain a clear separation from law enforcement."
+    }
+  ]
+},
+        {
+  "title": "Hobo",
+  "subrules": [
+    {
+      "title": "Live on the Street",
+      "description": "You must reside on the streets and cannot occupy private property or buildings."
+    },
+    {
+      "title": "No Blocking the Street",
+      "description": "Do not obstruct or block the street. Maintain clear pathways for other players."
+    },
+    {
+      "title": "Beg for Money",
+      "description": "You are allowed to beg other players for money as part of your role."
+    },
+    {
+      "title": "Legal Self-Defense Weapons Only",
+      "description": "You may carry legal self-defense weapons (e.g., pistols) but cannot use or carry illegal weapons."
+    },
+    {
+      "title": "No Random Deathmatch (RDM)",
+      "description": "Do not attack or kill other players without a valid reason."
+    },
+    {
+      "title": "Respect Other Players",
+      "description": "Interact with other players in a respectful manner, avoiding disruptive behavior."
+    }
+  ]
+}
     ]
 }
